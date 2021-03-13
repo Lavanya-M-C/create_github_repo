@@ -9,7 +9,7 @@
 
 #USAGE:
 
-To run the script type in 'create <name of your folder>'
+      To run the script type in 'create <name of your folder>'
 
 #.env FILE FORMAT:
 
