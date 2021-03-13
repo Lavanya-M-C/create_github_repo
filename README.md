@@ -19,6 +19,6 @@ To run the script type in 'create <name of your folder>'
 
 #HOW TO GENERATE GITHUB ACCESS TOKEN:
 
-Go to settings->Developer settings->Personal access tokens
-Then generate one access token with desired scopes
-Then copy the access token before changing the tab
+      Go to settings->Developer settings->Personal access tokens
+      Then generate one access token with desired scopes
+      Then copy the access token before changing the tab
