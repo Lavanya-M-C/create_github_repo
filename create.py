@@ -14,7 +14,8 @@ def create_project():
     if not os.path.exists(newpath):
         os.makedirs(newpath)
     user = Github(access_token).get_user()
-    repo = user.create_repo(name=folder_name, private=True)
+    # repo = user.create_repo(name=folder_name, private=True)
+    repo = user.create_repo(name=folder_name)
     print(f"Succesfully created repository {folder_name}")
 
 
